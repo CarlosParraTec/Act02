@@ -21,6 +21,7 @@ La salida del programa debe de ser exactamente de la siguiente forma:
 ```
 Hello World!
 ```
+Escribir tal cual está la salida
 
 **Nota:** No te preocupes por esta parte del código `if __name__ == '__main__':` por el momento. No la vamos a necesitar para este programa, pero es una buena práctica incluirla y quedará más claro para que sirve en los siguientes ejercicios.
 
